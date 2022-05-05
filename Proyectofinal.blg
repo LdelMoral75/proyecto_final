@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Proyectofinal.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Database file #1: Bibliografiaproyecto.bib
+Warning--empty journal in AlfonsoValenzuela
+Warning--empty year in AlfonsoValenzuela
+Warning--empty journal in Balaciano
+Warning--empty year in Balaciano
+Warning--empty journal in BarreraArellano1993
+Warning--empty publisher in Burton2022
+Warning--empty publisher in FernandezMartinez2009
+Warning--empty journal in Hamdan2009a
+Warning--empty journal in Hamdan2009
+Warning--empty journal in Sineiro1998
+Warning--empty journal in Ucciani1994
+Warning--empty journal in VELASCO1999
+You've used 15 entries,
+            2118 wiz_defined-function locations,
+            603 strings with 6972 characters,
+and the built_in function-call counts, 5160 in all, are:
+= -- 482
+> -- 283
+< -- 0
++ -- 111
+- -- 96
+* -- 413
+:= -- 889
+add.period$ -- 45
+call.type$ -- 15
+change.case$ -- 91
+chr.to.int$ -- 0
+cite$ -- 27
+duplicate$ -- 165
+empty$ -- 373
+format.name$ -- 96
+if$ -- 1028
+int.to.chr$ -- 0
+int.to.str$ -- 15
+missing$ -- 17
+newline$ -- 78
+num.names$ -- 30
+pop$ -- 97
+preamble$ -- 1
+purify$ -- 78
+quote$ -- 0
+skip$ -- 106
+stack$ -- 0
+substring$ -- 334
+swap$ -- 7
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 56
+warning$ -- 12
+while$ -- 45
+width$ -- 17
+write$ -- 153
+(There were 12 warnings)
